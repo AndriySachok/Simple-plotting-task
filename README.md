@@ -1,1 +1,2 @@
 # Simple-plotting-task
+The file contains the coordinates of the vertices of rectangles with vertical and horizontal sides. Another file contains the coordinates of the vertices of triangles. Print the rectangles and triangles. Triangles that are completely inside the rectangles are highlighted with a separate color, and their coordinates are written in another file. The intersecting triangles are highlighted in a different color.
